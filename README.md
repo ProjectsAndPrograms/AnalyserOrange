@@ -44,7 +44,7 @@ java -jar 'AnalyserOrange.jar'
    and choose your workspace.
 
 <b>Step-2 :</b> Open eclipse IDE : 
-     <i>go to file->Open Project from file system-> locate your workspace and select the project(QR-maker) folder -> click on open -> finish</i>
+     <i>go to file->Open Project from file system-> locate your workspace and select the project(AnalyserOrange) folder -> click on open -> finish</i>
 
 <b>Step-3 :</b>To run AnalyserOrange <i>right click on AnalyserOrange -> Run As -> Java Application</i>
 
