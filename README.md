@@ -1,5 +1,9 @@
 # AnalyserOrange
-Folder analyser created in java swing. Helpful when you want to analyse any folder briefly. I create this to analyse my projects.
+Folder analyser created in java swing. Helpful when you want to analyse any folder briefly. I create this to analyse my projects. 
+```diff
+- This project is currently not ready to scan large projects that are more than 100MB.
++ We apologize for any inconvenience this may cause.
+```
 
 ## Technologies used
    1. Java swing
