@@ -4,13 +4,13 @@ Folder analyser created in java swing. Helpful when you want to analyse any fold
 - This project is currently not ready to scan large projects that are more than 100MB.
 + We apologize for any inconvenience this may cause.
 ```
-
+ 
 ## Technologies used
    1. Java swing
    2. file-handling
    3. developed in Eclipse IDE 
 
-## Screenshots
+## Screenshots 
 
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
     <div style="display: flex; grid-gap: 10px;">
@@ -57,4 +57,4 @@ java -jar 'AnalyserOrange.jar'
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate.  
